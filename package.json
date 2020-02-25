@@ -1,5 +1,6 @@
 {
   "name": "tic-tac-toe-app",
+  "homepage": "https://brant.work/projects/tic_tac_toe_react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
